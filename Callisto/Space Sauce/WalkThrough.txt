@@ -1,0 +1,6 @@
+Hint
+Navigate to the website
+you realise that you are not able to right click to view the source code of the program
+add a 'view-source:' infront of the ip address (e.g. view-source:138.68.166.109:2001
+click on the disableRightMouseClick.js and view the flag inside.
+Enter the flag into the textbox below to get the points

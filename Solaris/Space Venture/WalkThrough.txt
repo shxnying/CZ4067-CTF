@@ -1,0 +1,5 @@
+Hint
+
+Open terminal
+enter the connectivity command
+enter the flag into the textbox below to get the points
