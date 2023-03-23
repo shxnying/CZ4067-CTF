@@ -1,6 +1,9 @@
 # CZ4067-CTF Competition 
 
 Monday, 19 March 2023 08:00:00 – Monday, 26 March 2023 20:00:00
+
+Rank: 15/57 Teams
+
 <img width="853" alt="Screenshot 2023-03-23 153523" src="https://user-images.githubusercontent.com/62127289/227135084-613870c8-7d31-479c-813f-e3340c9e651a.png">
 <img width="853" alt="Screenshot 2023-03-23 153540" src="https://user-images.githubusercontent.com/62127289/227135102-d985bf1b-e9df-4c07-9d96-5491a6dea16f.png">
 <img width="853" alt="Screenshot 2023-03-23 153556" src="https://user-images.githubusercontent.com/62127289/227135111-b94d0108-37aa-4224-8a4f-213205f52025.png">
